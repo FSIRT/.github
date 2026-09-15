@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="Fachschaft Informatik Reutlingen">
+  <title>Fachschaft Informatik Reutlingen</title>
+  <rect width="96" height="96" rx="20" fill="#003D7C"/>
+  <g fill="#FFFFFF">
+    <rect x="20" y="20" width="12" height="12"/>
+    <rect x="36" y="20" width="12" height="12"/>
+    <rect x="52" y="20" width="12" height="12"/>
+    <rect x="20" y="36" width="12" height="12"/>
+    <rect x="36" y="36" width="12" height="12"/>
+    <rect x="20" y="52" width="12" height="12"/>
+    <rect x="20" y="68" width="12" height="12"/>
+  </g>
+  <rect x="68" y="60" width="10" height="20" rx="2" fill="#6EE7B7"/>
+</svg>
